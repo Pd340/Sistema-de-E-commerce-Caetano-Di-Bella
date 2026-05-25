@@ -51,11 +51,7 @@ Interface Mobile:
 
 
 
-
-
-
-
-### Métricas
+### Métricas //naosei
 Documento com as métricas:<br>
 [Relatorio-de-Metricas-Caetano-Di-Bella.pdf](https://github.com/user-attachments/files/28236351/Relatorio-de-Metricas-Caetano-Di-Bella.pdf)
 
