@@ -25,9 +25,22 @@ Interface no Desktop:
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/226003f9b84eb5361173d449ec1d5ec95f50c40d/Site%20-%20P%C3%A1gina%20categorias%201.png)
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/8873becfefee8de22b1bceace01532075ea59d78/Site%20-%20P%C3%A1gina%20categorias%202.png)
 - Login<br>
-![image alt](
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/71725a17694e95a90d35161853f978563f10e0ae/Site%20-%20Login.png)
 - Carrinho<br>
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/ceea2a0bb531b4151845ac56a13bd416c987854b/Site%20-%20Carrinho.png)<br>
+
+Interface Mobile:
+- Página Inicial<br>
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/32d599ba225e3478e61297151267c2cb01018d28/Sitemob%20-%20P%C3%A1gina%20inicial.png)
+- Categorias<br>
 ![image alt](
+![image alt](
+![image alt](
+- Login<br>
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/84441e6065b20cf3aacaf9c4609f531fca7497fe/Sitemob%20-%20Login.png)
+- Carrinho<br>
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/d2db92b713391c8e83db504fc291dab0e9c8a533/Sitemob%20-%20Carrinho.png)<br>
+
 
 
 
