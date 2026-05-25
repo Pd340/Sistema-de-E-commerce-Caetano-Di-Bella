@@ -11,6 +11,7 @@ Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (C
 
 ### Diagrama de Casos de Uso
 
+
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/ba9c9c367d905984d01c5a2d2fdb8bf6ec82b113/Diagrama%20de%20Casos%20de%20Uso%201.jpeg)
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/7694f0653d42835fa1cad0e26f862e0935f5dae7/Diagrama%20de%20Casos%20de%20Uso%202.png)<br>
 Documento com os Requisitos:<br>
@@ -18,6 +19,13 @@ Documento com os Requisitos:<br>
 
 
 ### Interface (Site)
+Página interativa (planejamento inicial):<br>
+
+- Desktop
+[https://www.figma.com/proto/glwyFL3D5FtzVNOrcSb84k/E-commerce-Caetano-Di-Bella---Modelo-Editavel--c%C3%B3pia-?node-id=2018-2&t=x8Cvsng7MavPNvo9-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2018%3A2]<br>
+- Mobile
+[https://www.figma.com/proto/glwyFL3D5FtzVNOrcSb84k/E-commerce-Caetano-Di-Bella---Modelo-Editavel--c%C3%B3pia-?node-id=10-110&t=obV3dA6ogroCkSX3-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2018%3A2]
+
 Interface no Desktop:
 - Página Inicial<br>
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/d028add188834aa9a560a4730195ea236d6f061a/Site%20-%20P%C3%A1gina%20inicial.png)
@@ -44,8 +52,7 @@ Interface Mobile:
 
 
 
-Página interativa (planejamento inicial):<br>
-[https://www.figma.com/proto/glwyFL3D5FtzVNOrcSb84k/E-commerce-Caetano-Di-Bella---Modelo-Editavel--c%C3%B3pia-?node-id=2018-2&t=x8Cvsng7MavPNvo9-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2018%3A2]
+
 
 
 ### Métricas
