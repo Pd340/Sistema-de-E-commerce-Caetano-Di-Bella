@@ -12,7 +12,7 @@ Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (C
 ### Diagrama de Casos de Uso
 
 Página de Compra:<br>
-![image alt](
+![image alt](<br>
 Sistema de Gerenciamento:<br>
 ![image alt](<br>
 Documento com os Requisitos:
