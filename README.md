@@ -28,15 +28,6 @@ Página interativa (planejamento inicial):
 Interface no Desktop:
 - Página Inicial<br>
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/d028add188834aa9a560a4730195ea236d6f061a/Site%20-%20P%C3%A1gina%20inicial.png)
-
-<div align="center">
-<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/d028add188834aa9a560a4730195ea236d6f061a/Site%20-%20P%C3%A1gina%20inicial.png]" width="600px" />
-</div>
-
-
-
-
-
 - Categorias<br>
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/226003f9b84eb5361173d449ec1d5ec95f50c40d/Site%20-%20P%C3%A1gina%20categorias%201.png)
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/8873becfefee8de22b1bceace01532075ea59d78/Site%20-%20P%C3%A1gina%20categorias%202.png)
@@ -49,9 +40,9 @@ Interface Mobile:
 - Página Inicial<br>
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/32d599ba225e3478e61297151267c2cb01018d28/Sitemob%20-%20P%C3%A1gina%20inicial.png)
 - Categorias<br>
-![image alt](
-![image alt](
-![image alt](
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/79176ccce0436e980bb78b749ca0bbf8fbc15ee3/Sitemob%20-%20Categorias%201.png)<br>
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/4bc0927264e1796e5bb8cf6c7e9ccfef083ae4d8/Sitemob%20-%20Categorias%202.png)<br>
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/4bc0927264e1796e5bb8cf6c7e9ccfef083ae4d8/Sitemob%20-%20Categorias%203.png)
 - Login<br>
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/84441e6065b20cf3aacaf9c4609f531fca7497fe/Sitemob%20-%20Login.png)
 - Carrinho<br>
