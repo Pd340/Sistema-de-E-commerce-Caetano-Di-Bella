@@ -41,5 +41,5 @@ Documento com os Requisitos:
 - Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas
 
 ## Orientação
-Projeto desenvolvido sob orientação do Prof. Andenson Luiz Barbosa 
+Projeto desenvolvido sob orientação do Prof. Andenson Luiz Barbosa [https://github.com/AndersonLuizBarbosa]
 
