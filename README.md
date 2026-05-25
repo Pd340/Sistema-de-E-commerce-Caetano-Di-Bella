@@ -16,6 +16,7 @@ Métricas
 SCRUM
 
 Teste
+
 [Plano_de_Teste_Caetano_Di_Bella.pdf](https://github.com/user-attachments/files/28219467/Plano_de_Teste_Caetano_Di_Bella.pdf)
 
 
