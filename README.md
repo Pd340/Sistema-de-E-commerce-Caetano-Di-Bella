@@ -1,6 +1,6 @@
 # Sistema-de-E-commerce-Caetano-Di-Bella
 Trabalho de Engenharia de Software I - 1º Semestre ADS
-Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (Caetano Di-Bella), em que levantamos os requisitos funcionais, requisitos não funcionais e preferências do cliente.
+Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (Caetano Di-Bella), em que levantamos os requisitos funcionais, requisitos não funcionais e preferências do cliente, e fizemos o que 
 
 
 ## A seguir, estão as exigências e etapas do trabalho:
@@ -28,4 +28,11 @@ Documento com os Requisitos:
 
 [Plano_de_Teste_Caetano_Di_Bella.pdf](https://github.com/user-attachments/files/28219467/Plano_de_Teste_Caetano_Di_Bella.pdf)
 
+## Colaboradores 
+Pedro Arruda - Github
+Pedro Galvão - SCRUM
+Thallys Oliveira - Testes
+Isabelli Caetano - Diagrama de Casos de Uso e revisão
+Arthur Rodrigues - Interface
+Abner Brochado - Métricas
 
