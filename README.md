@@ -17,8 +17,17 @@ Documento com os Requisitos:<br>
 [Requisitos & Diagrama de Casos de Uso.pdf](https://github.com/user-attachments/files/28236604/Requisitos.Diagrama.de.Casos.de.Uso.pdf)
 
 
-### Interface
-
+### Interface (Site)
+Interface no Desktop:
+- Página Inicial
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/d028add188834aa9a560a4730195ea236d6f061a/Site%20-%20P%C3%A1gina%20inicial.png)
+- Categorias
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/226003f9b84eb5361173d449ec1d5ec95f50c40d/Site%20-%20P%C3%A1gina%20categorias%201.png)
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/8873becfefee8de22b1bceace01532075ea59d78/Site%20-%20P%C3%A1gina%20categorias%202.png)
+- Login
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/9efcfa17746955624055c453a658cd6467611f1d/Site%20-%20Carrinho.png)
+- Carrinho 
+![image alt](
 Página interativa (planejamento inicial):<br>
 [https://www.figma.com/proto/glwyFL3D5FtzVNOrcSb84k/E-commerce-Caetano-Di-Bella---Modelo-Editavel--c%C3%B3pia-?node-id=2018-2&t=x8Cvsng7MavPNvo9-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2018%3A2]
 
