@@ -25,7 +25,7 @@ Interface no Desktop:
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/226003f9b84eb5361173d449ec1d5ec95f50c40d/Site%20-%20P%C3%A1gina%20categorias%201.png)
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/8873becfefee8de22b1bceace01532075ea59d78/Site%20-%20P%C3%A1gina%20categorias%202.png)
 - Login<br>
-![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/9efcfa17746955624055c453a658cd6467611f1d/Site%20-%20Carrinho.png)
+![image alt](
 - Carrinho<br>
 ![image alt](
 
