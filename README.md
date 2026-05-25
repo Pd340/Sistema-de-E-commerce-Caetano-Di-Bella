@@ -19,11 +19,11 @@ Documento com os Requisitos:<br>
 
 
 ### Interface (Site)
-Página interativa (planejamento inicial):<br>
+Página interativa (planejamento inicial):
 
-- Desktop
-[https://www.figma.com/proto/glwyFL3D5FtzVNOrcSb84k/E-commerce-Caetano-Di-Bella---Modelo-Editavel--c%C3%B3pia-?node-id=2018-2&t=x8Cvsng7MavPNvo9-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2018%3A2]<br>
-- Mobile
+- Desktop<br>
+[https://www.figma.com/proto/glwyFL3D5FtzVNOrcSb84k/E-commerce-Caetano-Di-Bella---Modelo-Editavel--c%C3%B3pia-?node-id=2018-2&t=x8Cvsng7MavPNvo9-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2018%3A2]
+- Mobile<br>
 [https://www.figma.com/proto/glwyFL3D5FtzVNOrcSb84k/E-commerce-Caetano-Di-Bella---Modelo-Editavel--c%C3%B3pia-?node-id=10-110&t=obV3dA6ogroCkSX3-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2018%3A2]
 
 Interface no Desktop:
