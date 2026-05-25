@@ -29,10 +29,10 @@ Documento com os Requisitos:
 [Plano_de_Teste_Caetano_Di_Bella.pdf](https://github.com/user-attachments/files/28219467/Plano_de_Teste_Caetano_Di_Bella.pdf)
 
 ## Colaboradores 
-Pedro Arruda [https://github.com/Pd340] - Github
-Pedro Galvão [https://github.com/FinestSugar] - SCRUM
-Thallys Oliveira [https://github.com/SyllahtAvlis] - Testes
-Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso e revisão
-Arthur Rodrigues [https://github.com/arthenro] - Interface
-Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas
+- Pedro Arruda [https://github.com/Pd340] - Github
+- Pedro Galvão [https://github.com/FinestSugar] - SCRUM
+- Thallys Oliveira [https://github.com/SyllahtAvlis] - Testes
+- Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso e revisão
+- Arthur Rodrigues [https://github.com/arthenro] - Interface
+- Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas
 
