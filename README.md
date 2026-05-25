@@ -28,6 +28,15 @@ Página interativa (planejamento inicial):
 Interface no Desktop:
 - Página Inicial<br>
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/d028add188834aa9a560a4730195ea236d6f061a/Site%20-%20P%C3%A1gina%20inicial.png)
+
+<div align="center">
+<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/d028add188834aa9a560a4730195ea236d6f061a/Site%20-%20P%C3%A1gina%20inicial.png]" width="600px" />
+</div>
+
+
+
+
+
 - Categorias<br>
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/226003f9b84eb5361173d449ec1d5ec95f50c40d/Site%20-%20P%C3%A1gina%20categorias%201.png)
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/8873becfefee8de22b1bceace01532075ea59d78/Site%20-%20P%C3%A1gina%20categorias%202.png)
