@@ -40,3 +40,6 @@ Documento com os Requisitos:
 - Arthur Rodrigues [https://github.com/arthenro] - Interface
 - Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas
 
+## Orientação
+Projeto desenvolvido sob orientação do Prof. Andenson Luiz Barbosa 
+
