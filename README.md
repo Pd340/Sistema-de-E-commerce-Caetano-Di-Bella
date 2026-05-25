@@ -1,6 +1,6 @@
 # Sistema de E-commerce Caetano Di Bella
 Trabalho de Engenharia de Software I - 1º Semestre ADS<br>
-Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (Caetano Di Bella), em que levantamos os requisitos funcionais, requisitos não funcionais e preferências do cliente para realizar um modelo, com:<br>
+Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (Caetano Di Bella), em que levantamos os requisitos funcionais, requisitos não funcionais e preferências do cliente para realizar um modelo, com:
 - Diagrama de Casos de Uso
 - Interface
 - Métricas
@@ -44,9 +44,7 @@ Interface Mobile:
 - Login<br>
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/84441e6065b20cf3aacaf9c4609f531fca7497fe/Sitemob%20-%20Login.png)
 - Carrinho<br>
-![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/d2db92b713391c8e83db504fc291dab0e9c8a533/Sitemob%20-%20Carrinho.png)<br>
-
-
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/d2db92b713391c8e83db504fc291dab0e9c8a533/Sitemob%20-%20Carrinho.png)
 
 ### Métricas
 Documento com as métricas:<br>
