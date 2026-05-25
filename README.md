@@ -18,16 +18,24 @@ Documento com os Requisitos:<br>
 
 ### Interface
 
+Página interativa (planejamento inicial):<br>
+[https://www.figma.com/proto/glwyFL3D5FtzVNOrcSb84k/E-commerce-Caetano-Di-Bella---Modelo-Editavel--c%C3%B3pia-?node-id=2018-2&t=x8Cvsng7MavPNvo9-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2018%3A2]
+
+
+
+
+
 ### Métricas
-
-[Relatorio_Metricas_Caetano_Di_Bella.pdf](https://github.com/user-attachments/files/28220600/Relatorio_Metricas_Caetano_Di_Bella.pdf)
-
+Documento com as métricas:<br>
+[Relatorio-de-Metricas-Caetano-Di-Bella.pdf](https://github.com/user-attachments/files/28236351/Relatorio-de-Metricas-Caetano-Di-Bella.pdf)
 
 ### SCRUM
-
+Link do SCRUM:<br>
 [https://www.notion.so/Engenharia-I-SCRUM-202bbec74e6b80c7bd18d45a5c684649?source=copy_link]
-### Teste
 
+### Teste
+Documento com o plano de testes:<br>
+[Plano_de_Teste_Caetano_di_Bella.pdf](https://github.com/user-attachments/files/28236364/Plano_de_Teste_Caetano_di_Bella.pdf)
 
 ## Colaboradores 
 - Pedro Arruda [https://github.com/Pd340] - Github
