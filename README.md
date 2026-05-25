@@ -10,13 +10,12 @@ Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (C
 ## A seguir, estão as exigências e etapas do trabalho:
 
 ### Diagrama de Casos de Uso
-
-
+Diagrama:<br>
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/ba9c9c367d905984d01c5a2d2fdb8bf6ec82b113/Diagrama%20de%20Casos%20de%20Uso%201.jpeg)
-![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/7694f0653d42835fa1cad0e26f862e0935f5dae7/Diagrama%20de%20Casos%20de%20Uso%202.png)<br>
+![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/7694f0653d42835fa1cad0e26f862e0935f5dae7/Diagrama%20de%20Casos%20de%20Uso%202.png)
+
 Documento com os Requisitos:<br>
 [Requisitos & Diagrama de Casos de Uso.pdf](https://github.com/user-attachments/files/28236604/Requisitos.Diagrama.de.Casos.de.Uso.pdf)
-
 
 ### Interface (Site)
 Página interativa (planejamento inicial):
@@ -51,7 +50,7 @@ Interface Mobile:
 
 
 
-### Métricas //naosei
+### Métricas
 Documento com as métricas:<br>
 [Relatorio-de-Metricas-Caetano-Di-Bella.pdf](https://github.com/user-attachments/files/28236351/Relatorio-de-Metricas-Caetano-Di-Bella.pdf)
 
@@ -73,4 +72,3 @@ Documento com o plano de testes:<br>
 
 ## Orientação
 Projeto desenvolvido sob orientação do Prof. Andenson Luiz Barbosa [https://github.com/AndersonLuizBarbosa].
-
