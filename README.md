@@ -1,6 +1,6 @@
-# Sistema de E-commerce Caetano-Di Bella
+# Sistema de E-commerce Caetano Di Bella
 Trabalho de Engenharia de Software I - 1º Semestre ADS<br>
-Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (Caetano Di-Bella), em que levantamos os requisitos funcionais, requisitos não funcionais e preferências do cliente para realizar um modelo, com:<br>
+Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (Caetano Di Bella), em que levantamos os requisitos funcionais, requisitos não funcionais e preferências do cliente para realizar um modelo, com:<br>
 - Diagrama de Casos de Uso
 - Interfacce
 - Métricas
