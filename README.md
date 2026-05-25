@@ -30,7 +30,6 @@ Documento com os Requisitos:
 [https://www.notion.so/Engenharia-I-SCRUM-202bbec74e6b80c7bd18d45a5c684649?source=copy_link]
 ### Teste
 
-[Plano_de_Teste_Caetano_Di_Bella.pdf](https://github.com/user-attachments/files/28219467/Plano_de_Teste_Caetano_Di_Bella.pdf)
 
 ## Colaboradores 
 - Pedro Arruda [https://github.com/Pd340] - Github
