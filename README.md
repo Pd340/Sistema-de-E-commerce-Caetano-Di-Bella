@@ -1,5 +1,7 @@
 # Sistema-de-E-commerce-Caetano-Di-Bella
 Trabalho de Engenharia de Software I - 1º Semestre ADS
+Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (Caetano Di-Bella), em que levantamos os requisitos funcionais, requisitos não funcionais e preferências do cliente.
+
 
 ## A seguir, estão as exigências e etapas do trabalho:
 
@@ -15,6 +17,9 @@ Documento com os Requisitos:
 ### Interface
 
 ### Métricas
+
+[Relatorio_Metricas_Caetano_Di_Bella.pdf](https://github.com/user-attachments/files/28220600/Relatorio_Metricas_Caetano_Di_Bella.pdf)
+
 
 ### SCRUM
 
