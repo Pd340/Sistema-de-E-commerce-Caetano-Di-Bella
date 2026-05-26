@@ -4,6 +4,7 @@ Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (C
 - Diagrama de Casos de Uso;
 - Interface;
 - Métricas;
+- SCRUM;
 - Teste.
 
 ## A seguir, estão as exigências e etapas do trabalho:
