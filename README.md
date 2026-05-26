@@ -62,7 +62,7 @@ Documento com o plano de testes:<br>
 - Pedro Arruda [https://github.com/Pd340] - Github
 - Pedro Galvão [https://github.com/FinestSugar] - SCRUM
 - Thallys Oliveira [https://github.com/SyllahtAvlis] - Testes
-- Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso e revisão
+- Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso, documentos e revisão
 - Arthur Rodrigues [https://github.com/arthenro] - Interface
 - Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas
 
