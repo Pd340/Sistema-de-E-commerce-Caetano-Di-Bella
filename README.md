@@ -15,7 +15,7 @@ Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (C
 ![image alt](https://github.com/Pd340/Sistema-de-E-commerce-Caetano-Di-Bella/blob/7694f0653d42835fa1cad0e26f862e0935f5dae7/Diagrama%20de%20Casos%20de%20Uso%202.png)
 
 Documento com os Requisitos:<br>
-[Requisitos & Diagrama de Casos de Uso.pdf](https://github.com/user-attachments/files/28236604/Requisitos.Diagrama.de.Casos.de.Uso.pdf)
+[Requisitos & Diagrama de Casos de Uso.pdf](https://github.com/user-attachments/files/28465922/Requisitos.Diagrama.de.Casos.de.Uso.pdf)
 
 ### Interface (Site)
 Página interativa (planejamento inicial):
