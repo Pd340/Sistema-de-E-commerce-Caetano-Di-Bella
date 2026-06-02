@@ -59,12 +59,13 @@ Documento com o plano de testes:<br>
 [Plano_de_Teste_Caetano_di_Bella.pdf](https://github.com/user-attachments/files/28236364/Plano_de_Teste_Caetano_di_Bella.pdf)
 
 ## Colaboradores 
+- Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas
+- Arthur Rodrigues [https://github.com/arthenro] - Interface
+- Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso, documentos e revisão
 - Pedro Arruda [https://github.com/Pd340] - Github
 - Pedro Galvão [https://github.com/FinestSugar] - SCRUM
 - Thallys Oliveira [https://github.com/SyllahtAvlis] - Testes
-- Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso, documentos e revisão
-- Arthur Rodrigues [https://github.com/arthenro] - Interface
-- Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas
+
 
 ## Orientação
 Projeto desenvolvido sob orientação do Prof. Andenson Luiz Barbosa [https://github.com/AndersonLuizBarbosa].
