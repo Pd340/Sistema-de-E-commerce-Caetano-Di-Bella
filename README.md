@@ -67,7 +67,7 @@ Hospedagem do site e-commerce:<br>
 [hospedagem](https://caetano-di-bella.abnerpsb07.chatgpt.site)
 
 ### Modelo Entidade-Relacionamento (MER) 
-![image alt](<img width="1871" height="839" alt="image" src="https://github.com/user-attachments/assets/754305ca-718d-4174-a574-6d1a54c14b73" />
+![image alt](<img width="1871" height="839" alt="image" src="https://github.com/user-attachments/assets/d268f073-1f75-4c78-8cd6-dbfadd3ef332" />
 )
 
 ### Plano de Segurança Inicial (LGPD)
