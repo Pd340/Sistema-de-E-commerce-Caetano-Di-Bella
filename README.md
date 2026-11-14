@@ -65,6 +65,7 @@ Documento com o plano de testes:<br>
 ### Front-end Estático (HTML/CSS/JavaScript e link de hospedagem) 
 Hospedagem do site e-commerce:<br>
 [hospedagem](https://caetano-di-bella.abnerpsb07.chatgpt.site)
+[hospedagem](https://github.com/Belli-Isa/E-commerce-Caetano-Di-Bella---Site/tree/main)
 
 ### Modelo Entidade-Relacionamento (MER) 
 ![image alt](<img width="1871" height="839" alt="image" src="https://github.com/user-attachments/assets/d268f073-1f75-4c78-8cd6-dbfadd3ef332" />
