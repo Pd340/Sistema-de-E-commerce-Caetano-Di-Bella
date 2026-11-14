@@ -70,6 +70,7 @@ Hospedagem do site e-commerce:<br>
 ### Modelo Entidade-Relacionamento (MER) 
 ![image alt](blob:https://app.diagrams.net/4ed04e3d-5be8-4e35-aef8-03b4752e39d1
 )
+[link](https://drive.google.com/file/d/1Lw0D2qYH4UrmZIneohwdJQ3ttD6oT_XZ/view?usp=sharing)
 
 ### Plano de Segurança Inicial (LGPD)
 - Coleta e Minimização de Dados
