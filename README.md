@@ -59,10 +59,23 @@ Link do SCRUM:<br>
 Documento com o plano de testes:<br>
 [Plano_de_Teste_Caetano_di_Bella.pdf](https://github.com/user-attachments/files/28236364/Plano_de_Teste_Caetano_di_Bella.pdf)
 
+### Front-end Estático (HTML/CSS/JavaScript e link de hospedagem) 
+Hospedagem do site e-commerce:<br>
+[hospedagem](https://caetano-di-bella.abnerpsb07.chatgpt.site)
+
+### Modelo Entidade-Relacionamento (MER) 
+![image alt](blob:https://app.diagrams.net/acf75b84-475e-44a7-92f7-57cd8c23fbc2)
+
+### Plano de Segurança Inicial (LGPD)
+- Coleta e Minimização de Dados
+- Controle de Acesso e Autenticação
+- Armazenamento e Segurança da Informação
+- Direitos dos Titulares e Transparência
+
 ## Colaboradores 
 - Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas
 - Arthur Rodrigues [https://github.com/arthenro] - Interface
-- Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso, documentos e revisão
+- Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso, documentos, MER conceitual e revisão
 - Pedro Arruda [https://github.com/Pd340] - Github
 - Pedro Galvão [https://github.com/FinestSugar] - SCRUM
 - Thallys Oliveira [https://github.com/SyllahtAvlis] - Testes
