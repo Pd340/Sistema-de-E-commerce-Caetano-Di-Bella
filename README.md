@@ -1,12 +1,15 @@
 # Sistema de E-commerce Caetano Di Bella
 Trabalho de Engenharia de Software I - 1º Semestre ADS<br>
-Trabalho de PI I & II - 2º Semestre ADS<br>
+Trabalho de PI I & II - 1° e 2º Semestre ADS<br>
 Esse projeto é a modelagem de um sistema de e-commerce para uma empresa real (Caetano Di Bella), em que levantamos os requisitos funcionais, requisitos não funcionais e preferências do cliente para realizar um modelo, com:
 - Diagrama de Casos de Uso;
 - Interface;
 - Métricas;
 - SCRUM;
-- Teste.
+- Teste;
+- Front-end Estático;
+- Modelo Entidade-Relacionamento (MER);
+- Plano de Segurança Inicial (LGPD).
 
 ## A seguir, estão as exigências e etapas do trabalho:
 
@@ -64,7 +67,7 @@ Hospedagem do site e-commerce:<br>
 [hospedagem](https://caetano-di-bella.abnerpsb07.chatgpt.site)
 
 ### Modelo Entidade-Relacionamento (MER) 
-![image alt](blob:https://app.diagrams.net/acf75b84-475e-44a7-92f7-57cd8c23fbc2)
+![image alt](https://app.diagrams.net/acf75b84-475e-44a7-92f7-57cd8c23fbc2)
 
 ### Plano de Segurança Inicial (LGPD)
 - Coleta e Minimização de Dados
@@ -73,13 +76,13 @@ Hospedagem do site e-commerce:<br>
 - Direitos dos Titulares e Transparência
 
 ## Colaboradores 
-- Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas
+- Abner Brochado [https://github.com/abnerpsb07-netizen]- Métricas e front-end
 - Arthur Rodrigues [https://github.com/arthenro] - Interface
-- Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso, documentos, MER conceitual e revisão
+- Isabelli Caetano [https://github.com/Belli-Isa] - Diagrama de Casos de Uso, documentos, MER conceitual, Github, LGPD e revisão
 - Pedro Arruda [https://github.com/Pd340] - Github
 - Pedro Galvão [https://github.com/FinestSugar] - SCRUM
 - Thallys Oliveira [https://github.com/SyllahtAvlis] - Testes
 
 
 ## Orientação
-Projeto desenvolvido sob orientação do Prof. Andenson Luiz Barbosa [https://github.com/AndersonLuizBarbosa].
+Projeto desenvolvido sob orientação do Prof. Andenson Luiz Barbosa [https://github.com/AndersonLuizBarbosa] e do professor Thiago Jesus de Souza.
