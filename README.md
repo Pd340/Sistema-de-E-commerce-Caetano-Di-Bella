@@ -68,8 +68,7 @@ Hospedagem do site e-commerce:<br>
 [hospedagem](https://github.com/Belli-Isa/E-commerce-Caetano-Di-Bella---Site/tree/main)
 
 ### Modelo Entidade-Relacionamento (MER) 
-![image alt](<img width="1873" height="839" alt="Captura de tela 2026-11-14 181435" src="https://github.com/user-attachments/assets/dac852a1-9180-402b-b773-50decc718b17" />
-) <br>
+![image alt]() <br>
 [link](https://drive.google.com/file/d/1Lw0D2qYH4UrmZIneohwdJQ3ttD6oT_XZ/view?usp=sharing)
 
 ### Plano de Segurança Inicial (LGPD)
